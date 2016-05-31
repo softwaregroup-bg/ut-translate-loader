@@ -14,11 +14,12 @@ module.exports = function(source) {
                 }, {});
                 callback(null, 'module.exports = ' + JSON.stringify(translations, undefined, '\t') + ';');
             });
+        } else {
+            var translations = response[0].reduce((languages, msg) => {
+                languages[msg.dictionaryKey] = msg.translatedValue;
+                return languages;
+            }, {});
+            callback(null, 'module.exports = ' + JSON.stringify(translations, undefined, '\t') + ';');
         }
-        var translations = response[0].reduce((languages, msg) => {
-            languages[msg.dictionaryKey] = msg.translatedValue;
-            return languages;
-        }, {});
-        callback(null, 'module.exports = ' + JSON.stringify(translations, undefined, '\t') + ';');
     });
 };
