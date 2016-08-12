@@ -1,3 +1,13 @@
+<a name="5.5.1"></a>
+## [5.5.1](https://github.com/softwaregroup-bg/ut-translate-loader/compare/v5.5.0...v5.5.1) (2016-08-12)
+
+
+### Bug Fixes
+
+* publish to npm ([427c1c0](https://github.com/softwaregroup-bg/ut-translate-loader/commit/427c1c0))
+
+
+
 <a name="5.5.0"></a>
 # [5.5.0](https://git.softwaregroup-bg.com/ut5/ut-translate-loader/compare/v5.3.5...v5.5.0) (2016-08-12)
 
