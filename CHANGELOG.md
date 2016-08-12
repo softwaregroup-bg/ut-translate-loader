@@ -1,3 +1,13 @@
+<a name="5.5.0"></a>
+# [5.5.0](https://git.softwaregroup-bg.com/ut5/ut-translate-loader/compare/v5.3.5...v5.5.0) (2016-08-12)
+
+
+### Features
+
+* upgrade dependencies ([c66f373](https://git.softwaregroup-bg.com/ut5/ut-translate-loader/commit/c66f373))
+
+
+
 <a name="5.3.5"></a>
 ## [5.3.5](https://git.softwaregroup-bg.com/ut5/ut-translate-loader/compare/v5.3.4...v5.3.5) (2016-06-08)
 
