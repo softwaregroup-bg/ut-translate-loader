@@ -1,3 +1,8 @@
+<a name="5.5.3"></a>
+## [5.5.3](https://github.com/softwaregroup-bg/ut-translate-loader/compare/v5.5.2...v5.5.3) (2016-10-24)
+
+
+
 <a name="5.5.2"></a>
 ## [5.5.2](https://github.com/softwaregroup-bg/ut-translate-loader/compare/v5.5.1...v5.5.2) (2016-09-21)
 
